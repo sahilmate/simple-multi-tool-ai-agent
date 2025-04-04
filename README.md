@@ -107,6 +107,11 @@ Use the Gradio interface to interact with the agent and perform tasks.
 - The agent uses the `Qwen/Qwen2.5-Coder-32B-Instruct` model by default. If the model is overloaded, you can switch to another Hugging Face model or endpoint.
 - The `.env` file should not be pushed to version control as it contains sensitive information.
 
+
+## Next Up
+### Fine tuning a model for Function Calling 
+- https://huggingface.co/agents-course/notebooks/blob/main/bonus-unit1/bonus-unit1.ipynb
+
 ## Acknowledgments
 
 - [Hugging Face smolagents](https://huggingface.co/docs/smolagents/en/index)

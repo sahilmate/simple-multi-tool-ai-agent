@@ -112,8 +112,11 @@ Use the Gradio interface to interact with the agent and perform tasks.
 ### Fine tuning a model for Function Calling 
 - https://huggingface.co/agents-course/notebooks/blob/main/bonus-unit1/bonus-unit1.ipynb
 
-### smolagents Party Planner
+### smolagents Party Planner with CodeAgent
 - https://huggingface.co/agents-course/notebooks/blob/main/unit2/smolagents/code_agents.ipynb
+
+### smolagents Party Planner with ToolCallingAgent
+- https://colab.research.google.com/github/huggingface/agents-course/blob/main/notebooks/unit2/smolagents/tool_calling_agents.ipynb
 
 ## Acknowledgments
 

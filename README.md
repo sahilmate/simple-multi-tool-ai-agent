@@ -109,6 +109,7 @@ Use the Gradio interface to interact with the agent and perform tasks.
 
 
 ## Next Up
+# smolagents
 ### Fine tuning a model for Function Calling 
 - https://huggingface.co/agents-course/notebooks/blob/main/bonus-unit1/bonus-unit1.ipynb
 
@@ -120,6 +121,15 @@ Use the Gradio interface to interact with the agent and perform tasks.
 
 ### Tool Creation methods
 - https://colab.research.google.com/github/huggingface/agents-course/blob/main/notebooks/unit2/smolagents/tools.ipynb
+
+### Agentic RAG systems 
+- https://colab.research.google.com/github/huggingface/agents-course/blob/main/notebooks/unit2/smolagents/retrieval_agents.ipynb
+
+### Multi Agent Systems
+- https://colab.research.google.com/github/huggingface/agents-course/blob/main/notebooks/unit2/smolagents/multiagent_notebook.ipynb
+
+### Vision and Browser Agents
+- https://colab.research.google.com/github/huggingface/agents-course/blob/main/notebooks/unit2/smolagents/vision_agents.ipynb
 
 ## Acknowledgments
 

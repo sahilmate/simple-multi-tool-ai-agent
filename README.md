@@ -118,6 +118,9 @@ Use the Gradio interface to interact with the agent and perform tasks.
 ### smolagents Party Planner with ToolCallingAgent
 - https://colab.research.google.com/github/huggingface/agents-course/blob/main/notebooks/unit2/smolagents/tool_calling_agents.ipynb
 
+### Tool Creation methods
+- https://colab.research.google.com/github/huggingface/agents-course/blob/main/notebooks/unit2/smolagents/tools.ipynb
+
 ## Acknowledgments
 
 - [Hugging Face smolagents](https://huggingface.co/docs/smolagents/en/index)
